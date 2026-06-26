@@ -357,19 +357,6 @@ DevOps CI/CD Project Working
 
 ------------------------------------------------------------------------
 
-# 📸 Screenshots
-
-Add screenshots for:
-
--   Jenkins Dashboard
--   Successful Pipeline
--   Docker Hub Repository
--   GitHub Repository
--   Running Container
--   Application Output
-
-------------------------------------------------------------------------
-
 # 🎯 Learning Outcomes
 
 -   CI/CD Fundamentals
